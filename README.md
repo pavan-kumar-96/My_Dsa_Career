@@ -7,7 +7,7 @@ I am learning independently by following high-quality online resources that have
 📚 Learning Resources
 
 🎥 DSA Playlist:
-YouTube Playlist
+https://www.youtube.com/playlist?list=PLjzLBp9HHZWhVXBSPS1VqxXXDoVk07gd9
 
 🎥 takeUforward YouTube Channel:
 https://www.youtube.com/@takeUforward
