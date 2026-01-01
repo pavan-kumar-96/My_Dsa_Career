@@ -5,7 +5,6 @@ public class Leetcode1108 {
         String address = "255.100.50.0";
         String s = "";
         for (int i = 0; i < address.length(); i++) {
-            char c = address.charAt(i);
             if (address.charAt(i) == '.') {
                 s = s + "[.]";
             } else {
